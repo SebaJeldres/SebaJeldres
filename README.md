@@ -59,4 +59,3 @@ Aplicación de gestión de inventario, con arquitectura de API REST para el mane
 
 Estoy siempre abierto a oportunidades y a colaborar en proyectos interesantes. Revisa mis repositorios para ver más ejemplos de mi trabajo!
 
-[![Perfil de LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL_DE_LINKEDIN)
